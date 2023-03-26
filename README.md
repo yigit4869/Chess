@@ -1,2 +1,2 @@
 # Chess
-chess with python
+chess with python / pygame
